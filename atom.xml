@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://ppcecho.github.com/atom.xml" rel="self"/>
   <link href="http://ppcecho.github.com/"/>
-  <updated>2013-03-02T16:07:21+08:00</updated>
+  <updated>2013-03-02T16:22:08+08:00</updated>
   <id>http://ppcecho.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,11 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[helol]]></title>
-    <link href="http://ppcecho.github.com/blog/2013/03/02/helll/"/>
-    <updated>2013-03-02T15:08:00+08:00</updated>
-    <id>http://ppcecho.github.com/blog/2013/03/02/helll</id>
-    <content type="html"><![CDATA[
+    <title type="html"><![CDATA[你说]]></title>
+    <link href="http://ppcecho.github.com/blog/2013/03/02/ni-shuo/"/>
+    <updated>2013-03-02T16:04:00+08:00</updated>
+    <id>http://ppcecho.github.com/blog/2013/03/02/ni-shuo</id>
+    <content type="html"><![CDATA[<h1>我爱你</h1>
+
+<h2>我爱你</h2>
 ]]></content>
   </entry>
   
@@ -27,21 +29,9 @@
     <link href="http://ppcecho.github.com/blog/2013/03/02/post-title/"/>
     <updated>2013-03-02T11:41:00+08:00</updated>
     <id>http://ppcecho.github.com/blog/2013/03/02/post-title</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[你说]]></title>
-    <link href="http://ppcecho.github.com/blog/2013/03/02/ni-shuo/"/>
-    <updated>2013-03-02T00:00:00+08:00</updated>
-    <id>http://ppcecho.github.com/blog/2013/03/02/ni-shuo</id>
-    <content type="html"><![CDATA[<h1>创建文章并本地测试</h1>
+    <content type="html"><![CDATA[<p>sdlfajsdf</p>
 
-<p>现在我们可以验证我们的本地系统已经能正常工作
-date: 2013-03-02 16:04
-comments: true
-categories:</p>
+<h2>hello</h2>
 ]]></content>
   </entry>
   
@@ -105,24 +95,6 @@ categories:</p>
 <h2>License</h2>
 
 <p>This book is Copyright (C) 2011 by Zed A. Shaw. You are free to distribute this book to anyone you want, so long as you do <em>not</em> charge anything for it, <em>and</em> it is not altered. You must give away the book in its entirety, or not at all. This means it&#8217;s alright for you to teach a class using the book, so long as you aren&#8217;t charging students for the <em>book</em> and you give them the whole book unmodified.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ce Shi]]></title>
-    <link href="http://ppcecho.github.com/blog/2013/03/02/ce-shi/"/>
-    <updated>2013-03-02T00:00:00+08:00</updated>
-    <id>http://ppcecho.github.com/blog/2013/03/02/ce-shi</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[And You Slash]]></title>
-    <link href="http://ppcecho.github.com/blog/2013/03/02/and-you-slash/"/>
-    <updated>2013-03-02T00:00:00+08:00</updated>
-    <id>http://ppcecho.github.com/blog/2013/03/02/and-you-slash</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
