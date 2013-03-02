@@ -1,16 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[妈妈说]]></title>
   <link href="http://ppcecho.github.com/atom.xml" rel="self"/>
   <link href="http://ppcecho.github.com/"/>
-  <updated>2013-03-02T16:29:26+08:00</updated>
+  <updated>2013-03-02T18:40:01+08:00</updated>
   <id>http://ppcecho.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[ppcecho]]></name>
+    <email><![CDATA[zzphah@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[东风路口]]></title>
+    <link href="http://ppcecho.github.com/blog/2013/03/02/dong-feng-lu-kou/"/>
+    <updated>2013-03-02T17:52:00+08:00</updated>
+    <id>http://ppcecho.github.com/blog/2013/03/02/dong-feng-lu-kou</id>
+    <content type="html"><![CDATA[<p>sldkfalsdkjfaslkdf</p>
+
+<figure class='code'><figcaption><span>Discover if a number is prime</span><a href='http://www.noulakaz.net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/'>Source Article</a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">class</span> <span class="nc">Fixnum</span>
+</span><span class='line'>  <span class="k">def</span> <span class="nf">prime?</span>
+</span><span class='line'>      <span class="p">(</span><span class="s1">&#39;1&#39;</span> <span class="o">*</span> <span class="nb">self</span><span class="p">)</span> <span class="o">!~</span> <span class="sr">/^1?$|^(11+?)\1+$/</span>
+</span><span class='line'>        <span class="k">end</span>
+</span><span class='line'>        <span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[我的上班生]]></title>
+    <link href="http://ppcecho.github.com/blog/2013/03/02/wo-de-shang-ban-sheng/"/>
+    <updated>2013-03-02T16:40:00+08:00</updated>
+    <id>http://ppcecho.github.com/blog/2013/03/02/wo-de-shang-ban-sheng</id>
+    <content type="html"><![CDATA[<p>效果怎么样呢</p>
+]]></content>
+  </entry>
   
 </feed>
