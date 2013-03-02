@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://ppcecho.github.com/atom.xml" rel="self"/>
   <link href="http://ppcecho.github.com/"/>
-  <updated>2013-03-02T15:42:47+08:00</updated>
+  <updated>2013-03-02T16:07:21+08:00</updated>
   <id>http://ppcecho.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -28,6 +28,20 @@
     <updated>2013-03-02T11:41:00+08:00</updated>
     <id>http://ppcecho.github.com/blog/2013/03/02/post-title</id>
     <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[你说]]></title>
+    <link href="http://ppcecho.github.com/blog/2013/03/02/ni-shuo/"/>
+    <updated>2013-03-02T00:00:00+08:00</updated>
+    <id>http://ppcecho.github.com/blog/2013/03/02/ni-shuo</id>
+    <content type="html"><![CDATA[<h1>创建文章并本地测试</h1>
+
+<p>现在我们可以验证我们的本地系统已经能正常工作
+date: 2013-03-02 16:04
+comments: true
+categories:</p>
 ]]></content>
   </entry>
   
