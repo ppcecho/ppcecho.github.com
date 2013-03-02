@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://ppcecho.github.com/atom.xml" rel="self"/>
   <link href="http://ppcecho.github.com/"/>
-  <updated>2013-03-02T15:30:42+08:00</updated>
+  <updated>2013-03-02T15:33:12+08:00</updated>
   <id>http://ppcecho.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -36,6 +36,15 @@
     <link href="http://ppcecho.github.com/blog/2013/03/02/ce-shi/"/>
     <updated>2013-03-02T00:00:00+08:00</updated>
     <id>http://ppcecho.github.com/blog/2013/03/02/ce-shi</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[And You Slash]]></title>
+    <link href="http://ppcecho.github.com/blog/2013/03/02/and-you-slash/"/>
+    <updated>2013-03-02T00:00:00+08:00</updated>
+    <id>http://ppcecho.github.com/blog/2013/03/02/and-you-slash</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://ppcecho.github.com/blog/2013/03/02/and-you-slash/</loc>
+        <lastmod>2013-03-02T15:32:49+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://ppcecho.github.com/blog/2013/03/02/ce-shi/</loc>
         <lastmod>2013-03-02T14:48:58+08:00</lastmod>
     </url>
@@ -14,7 +18,7 @@
     </url>
     <url>
         <loc>http://ppcecho.github.com/</loc>
-        <lastmod>2013-03-02T15:29:25+08:00</lastmod>
+        <lastmod>2013-03-02T15:32:49+08:00</lastmod>
     </url>
     <url>
         <loc>http://ppcecho.github.com/robots.txt</loc>
@@ -22,6 +26,6 @@
     </url>
     <url>
         <loc>http://ppcecho.github.com/blog/archives/</loc>
-        <lastmod>2013-03-02T15:29:25+08:00</lastmod>
+        <lastmod>2013-03-02T15:32:49+08:00</lastmod>
     </url>
 </urlset>
