@@ -1,0 +1,10 @@
+---
+layout: post
+title: "你说"
+---
+# 创建文章并本地测试 #
+现在我们可以验证我们的本地系统已经能正常工作
+date: 2013-03-02 16:04
+comments: true
+categories: 
+
