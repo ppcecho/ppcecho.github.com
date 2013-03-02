@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-03-02T11:42:04+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://ppcecho.github.com/atom.xml" rel="self"/>
+  <link href="http://ppcecho.github.com/"/>
+  <updated>2013-03-02T13:43:08+08:00</updated>
+  <id>http://ppcecho.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[post title]]></title>
-    <link href="http://yoursite.com/blog/2013/03/02/post-title/"/>
+    <link href="http://ppcecho.github.com/blog/2013/03/02/post-title/"/>
     <updated>2013-03-02T11:41:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/03/02/post-title</id>
+    <id>http://ppcecho.github.com/blog/2013/03/02/post-title</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
