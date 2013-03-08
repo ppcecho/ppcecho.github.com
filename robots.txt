@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://ppcecho.github.com/sitemap.xml 
+Sitemap: http://www.ikule.cn/sitemap.xml 
