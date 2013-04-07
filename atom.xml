@@ -4,7 +4,7 @@
   <title><![CDATA[自寒香]]></title>
   <link href="http://www.ikule.cn/atom.xml" rel="self"/>
   <link href="http://www.ikule.cn/"/>
-  <updated>2013-03-23T01:08:58+08:00</updated>
+  <updated>2013-04-07T21:32:23+08:00</updated>
   <id>http://www.ikule.cn/</id>
   <author>
     <name><![CDATA[ppcecho]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[空白]]></title>
+    <link href="http://www.ikule.cn/blog/kongbai.html"/>
+    <updated>2013-04-07T21:31:00+08:00</updated>
+    <id>http://www.ikule.cn/blog/kongbai</id>
+    <content type="html"><![CDATA[<p>&#8230;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[品茶]]></title>
