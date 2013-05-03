@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="span7 offset2">
+<div class="span9">
   {% assign index = true %}
   {% for post in paginator.posts %}
   {% assign content = post.content %}
