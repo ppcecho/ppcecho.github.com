@@ -3,7 +3,7 @@ layout: post
 title: "赖声川的创意学（一）"
 date: 2013-03-06 22:14
 comments: true
-categories: 
+categories: reading
 ---
 大部分的人对于创意的理解都是创意是一种无从琢磨的东西，它来无影去无踪，不是自己想
 拥有就能马上拥有的。对于别人所想到的创意，我们往往只是赞叹，然后暗暗在心里说我
