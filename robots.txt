@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.ikule.cn/sitemap.xml 
+Sitemap: http://www.mensao.org/sitemap.xml 
